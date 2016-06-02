@@ -10,6 +10,6 @@ version          "3.3.1"
   supports os
 end
 
-depends "java", ">= 1.15.4"
-depends "nginx", ">= 1.8.0"
-depends "artifact", ">= 1.11.0"
+depends "java"
+depends "nginx"
+depends "artifact"
